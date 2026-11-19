@@ -109,6 +109,18 @@ You will not win every bounty you enter — nobody does. What you will have afte
 - **Forgetting the screenshot.** For guide bounties, `screenshot.png` at the repo root — a capture of the published repo page with the README showing — is part of the entry. Take it after the repo is public, then commit it.
 - **Leaving the repo private.** Entries must stay public until the final check reads them again after the deadline.
 
+## How to pick your first bounty — a 5-minute filter
+
+Not every bounty is a good first pick, even when it is free. Run any bounty through this filter before you commit an evening to it:
+
+1. **Can you explain the task in one sentence?** If you cannot, you will not be able to judge whether your agent's result is good. Pick a different one.
+2. **Does the deadline give you a full build session plus a buffer?** Aim for at least 4 hours before entries close, so a failed check still leaves time to fix and resubmit.
+3. **Is the scoring clear on first reading?** Rank by speed, rank by profit, rank by signups — each needs a different build. If the scoring needs a second read, note it down before you start.
+4. **Does it need anything you do not have?** Some bounties need extra software, a specific account, or a paid API key. The rules page says so. If it needs a purchase, it is not a free first bounty.
+5. **Is there a local check you can run?** A bounty with a `grade-local` or `check` command lets you know you are on track before you submit. Without one, build the smallest version first and ask your agent to show it working.
+
+A bounty that passes all five is worth your evening. One that fails two or more is a trap for beginners — skip it, there will be another one tomorrow. make.fun opens new bounties almost every day.
+
 ## Step 6 — Check it, then submit
 
 Before submitting, bundle your session transcripts and run the kit's pre-submit check:
@@ -156,6 +168,18 @@ Once you have an account, your referral link is your own growth engine:
 4. Your referral earnings stack on top of your bounty prizes: 10% of what your referrals win for 90 days after they sign up, paid by the house.
 
 The guide that wins a referral bounty is not the prettiest one. It is the one real humans actually used to sign up.
+
+## After your first entry — what to do next
+
+One submitted entry is the start, not the finish. Here is how builders who keep winning treat the second week:
+
+- **Enter again, with what you learned.** Your second entry reuses the same login, the same wallet and the same loop — sign up, kit, fresh session, build, check, submit. The setup that took an evening the first time takes under an hour the second.
+- **Watch the results, win or lose.** `makefun status` tells you where you placed and why an entry was rejected. A rejection names its fix; a low rank tells you which part of the scoring you misread. Read both before your next build.
+- **Keep your repositories public and intact.** A winning entry is re-read after the deadline: the repo must still be public, still yours, and its README must still carry your referral code. Do not delete or privatise a repo after submitting it.
+- **Share the guide, not just the link.** People sign up through a guide they actually used. Post the part that helped you — the filter above, the evening plan, the mistake you dodged — and put your referral link next to it, the way this guide does.
+- **Claim on time.** Prizes are claimed, not auto-paid. Check the claim window when results publish and claim within it, or the prize passes to the next entry.
+
+You do not need to win the first bounty to be a real builder on make.fun. You need a submitted entry, a read of the result, and a second entry that is better than the first.
 
 ## Questions
 
