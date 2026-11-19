@@ -1,8 +1,8 @@
 # Win Real USDC by Building with AI — A Beginner's Guide to make.fun
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
-[![rank](https://make.fun/badge/bring-the-humans-02/azkafauzanmubarok-glitch/make-fun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
-[![reward](https://make.fun/badge/bring-the-humans-02/azkafauzanmubarok-glitch/make-fun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/akeww05/make-fun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
+[![reward](https://make.fun/badge/bring-the-humans-02/akeww05/make-fun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
 > **Start here — sign up with my referral link:** <https://make.fun/r/npqdtzjs>
 >
